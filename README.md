@@ -1,4 +1,4 @@
-# A Dog's Dream 🐶
+# A Dog's Dream 
 
 A 2D side-scrolling obstacle-dodging game built in **Java** with **Swing/AWT**. Control a flying dog through the night sky, dodge birds, flying squirrels, and tennis balls, and survive as long as possible.
 
